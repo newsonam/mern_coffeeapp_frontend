@@ -14,6 +14,10 @@
 
 ![coffeeemenu](https://user-images.githubusercontent.com/107928378/215801505-fb971825-df28-4be0-80c7-5c2e03760a75.png)
 
+###########  PRODUCT DETAILS PAGE ##########
+
+![PRODUCT DETAILS](https://user-images.githubusercontent.com/107928378/215805953-379f4b60-6869-428c-a82e-cfa2c25b0c93.png)
+
 
 ################# CONTACT US PAGE #################
 
